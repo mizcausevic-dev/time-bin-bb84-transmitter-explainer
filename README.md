@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/time-bin-bb84-transmitter-explainer/
 
+Repository: https://github.com/mizcausevic-dev/time-bin-bb84-transmitter-explainer
+
 ## What this is
 
 An interactive anatomy plate for Time-Bin BB84 Transmitter. Play, scrub, or jump the five stages. The same frame always draws the same picture.
