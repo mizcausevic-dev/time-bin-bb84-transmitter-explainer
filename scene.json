@@ -11,64 +11,64 @@
       "glyph": "laser",
       "label": "Laser",
       "role": "energy",
-      "x": 0.5,
-      "y": 0.14
+      "x": 0.14,
+      "y": 0.32
     },
     {
       "id": "n2",
       "glyph": "card",
       "label": "Modulators",
       "role": "path",
-      "x": 0.5,
-      "y": 0.243
+      "x": 0.38,
+      "y": 0.32
     },
     {
       "id": "n3",
       "glyph": "doc",
       "label": "Early",
       "role": "path",
-      "x": 0.5,
-      "y": 0.346
+      "x": 0.62,
+      "y": 0.32
     },
     {
       "id": "n4",
       "glyph": "doc",
       "label": "Late modes",
       "role": "path",
-      "x": 0.5,
-      "y": 0.449
+      "x": 0.86,
+      "y": 0.32
     },
     {
       "id": "n5",
       "glyph": "doc",
       "label": "Basis states",
       "role": "sense",
-      "x": 0.5,
-      "y": 0.551
+      "x": 0.14,
+      "y": 0.7
     },
     {
       "id": "n6",
       "glyph": "phase",
       "label": "Phases",
       "role": "sense",
-      "x": 0.5,
-      "y": 0.654
+      "x": 0.38,
+      "y": 0.7
     },
     {
       "id": "n7",
       "glyph": "doc",
       "label": "Decoy intensities",
       "role": "path",
-      "x": 0.5,
-      "y": 0.757
+      "x": 0.62,
+      "y": 0.7
     },
     {
       "id": "n8",
       "glyph": "plate",
       "label": "Authenticated classical processing",
       "role": "structure",
-      "x": 0.5,
-      "y": 0.86
+      "x": 0.86,
+      "y": 0.7
     }
   ],
   "edges": [
